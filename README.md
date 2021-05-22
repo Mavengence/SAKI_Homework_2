@@ -29,13 +29,13 @@ This project aims to use spacy and flair to predict the named entities such as s
 ```
 ## Links to Ressources
 
-- NER Notebook 1 as [iPython](https://github.com/Mavengence/SAKI_Homework_1/blob/master/ner_1_2021.ipynb)
+- NER Notebook 1 as [iPython](https://github.com/Mavengence/SAKI_Homework_2/blob/master/ner_1_2021.ipynb)
 
 - NER Notebook 2 as [iPython](https://github.com/Mavengence/SAKI_Homework_2/blob/master/ner_2_2021.ipynb)
 
-- NER Notebook 3 as [iPython](https://github.com/Mavengence/SAKI_Homework_3/blob/master/ner_3_2021.ipynb)
+- NER Notebook 3 as [iPython](https://github.com/Mavengence/SAKI_Homework_2/blob/master/ner_3_2021.ipynb)
 
-- NER Notebook 4 as [iPython](https://github.com/Mavengence/SAKI_Homework_4/blob/master/ner_4_2021.ipynb)
+- NER Notebook 4 as [iPython](https://github.com/Mavengence/SAKI_Homework_2/blob/master/ner_4_2021.ipynb)
 
 
 ## Ressources
